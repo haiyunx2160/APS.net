@@ -1,0 +1,18 @@
+﻿body 
+{
+	background-color: pink;
+}
+.MainFrame
+{
+    position:absolute;
+    height:600px; 
+    width: 600px; 
+    border: solid 1px #002594;
+}
+.Buttons
+{
+    height: 25px;
+	font-family: Arial, Helvetica;
+    font-size: 11pt;
+    color: #002594;
+}

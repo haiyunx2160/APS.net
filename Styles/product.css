@@ -1,0 +1,57 @@
+﻿
+    body
+
+{
+    background-color: #BFC9DC;
+}
+
+.Panels {
+    
+    border: solid 1px #002594;
+    background-color: ButtonFace;
+    height:210px;
+    width:310px;
+}
+
+.Labels {
+    
+    font-family: Arial, Helvetica;
+    font-size: 11pt;
+    color: #002594;
+    text-align: left;
+}
+
+.TextBoxes {
+    
+    border: solid 1px #002594;
+    height: 20px;
+    font-family: Arial, Helvetica;
+    font-size: 11pt;
+    color: #002594;
+    text-align: left;
+    padding-left: 5px;
+}
+.Buttons {
+   
+    height: 20px;
+    font-family: Arial, Helvetica;
+    font-size: 11pt;
+    color: #002594;
+}
+
+#Image1 {
+    height: 300px;
+    width: 300px;
+    padding: 10px;
+    border:2px;
+}
+
+
+#ListBox1 {
+    position: absolute;
+    right: 0px;
+    top: 20px;
+    height: 200px;
+    
+}
+
